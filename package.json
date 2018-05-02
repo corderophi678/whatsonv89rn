@@ -1,5 +1,5 @@
 {
-  "name": "@corderophi678/whatsonv89rn",
+  "name": "@corderophilosophy/whatsonv89rn",
   "version": "0.1.0",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,13 @@
     "puppeteer": "^1.3.0"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corderophi678/whatsonv89rn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/corderophi678/whatsonv89rn/issues"
+  },
+  "homepage": "https://github.com/corderophi678/whatsonv89rn#readme",
   "description": ""
 }
