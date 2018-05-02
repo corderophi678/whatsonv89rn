@@ -1,7 +1,6 @@
 {
-  "name": "whatsonv89rn",
+  "name": "@corderophi678/whatsonv89rn",
   "version": "0.1.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +12,8 @@
   "author": "Dr. Rich Cordero <rich@corderophilosophy.com> (http://corderophilosophy.com/)",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^1.3.0",
-    "request": "^2.85.0"
-  }
+    "puppeteer": "^1.3.0"
+  },
+  "devDependencies": {},
+  "description": ""
 }
